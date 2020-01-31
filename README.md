@@ -48,5 +48,5 @@ Result of custom location
 * You can also type any location you want in the text field above and tap the search icon to know the AQI of its (nearest AQI station) location.
 
 # Acknowledgments
-* Big thanks to aquicn.org for providing an economical weather API and desired information. Also, to my friends for helping me with the visual layout of this app.
+* Big thanks to *aquicn.org* for providing an economical weather API and desired information. Also, to my friends for helping me with the visual layout of this app.
 * MIT app invetor works well and enough powerful to make such simple apps easily, great work by them.
