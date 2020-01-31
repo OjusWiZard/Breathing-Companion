@@ -3,7 +3,7 @@ An Android app that gives Air-Quality-Index and other details of your/any locati
 
 # Screenshots
 <p align="center">
-Hazards and Precautions
+**Hazards and Precautions**
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Hazards and Precautions
 
 <p align="center">
  <br>
-Result of GPS location
+**Result of GPS location**
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Result of GPS location
 
 <p align="center">
  <br>
-Result of custom location
+**Result of custom location**
 </p>
 
 <p align="center">
