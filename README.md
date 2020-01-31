@@ -1,21 +1,30 @@
-# Breathing-Companion
+# Breathing Companion
 An Android app that gives Air-Quality-Index and other details of your/any location around the globe.
 
 # Screenshots
 <p align="center">
+Hazards and Precautions
+</p>
 
-* Hazards and Precautions
-
+<p align="center">
  <img src="https://github.com/OjusWiZard/Breathing-Companion/blob/master/Screenshots/4.jpg" width="216" height="384" title="Hazards and Precautions of PM2.5">
+</p>
+
+<p align="center">
  <br>
- 
-* Result of GPS location
+Result of GPS location
+</p>
 
+<p align="center">
 <img src="https://github.com/OjusWiZard/Breathing-Companion/blob/master/Screenshots/5.jpg" width="216" height="384" title="AQI of Device's coordinates">
-<br>
-  
- * Result of custom location
+</p>
 
+<p align="center">
+ <br>
+Result of custom location
+</p>
+
+<p align="center">
 <img src="https://github.com/OjusWiZard/Breathing-Companion/blob/master/Screenshots/7.jpg" width="216" height="384" title="AQI of Honolulu">
 </p>
 
@@ -25,11 +34,11 @@ An Android app that gives Air-Quality-Index and other details of your/any locati
 3. Click on the **Breathing Companion.apk** file and click on install.
 
 # How to edit this app?
-  1. Download the **BreathingCompanion.aia** file from above onto your computer.
-  2. Goto http://ai2.appinventor.mit.edu/
-  3. Login using your credentials.
-  4. Click on My Projects > Import Project (.aia) from my computer...
-  5. Browse and open the downloaded BreathingCompanion.aia file.
+1. Download the **BreathingCompanion.aia** file from above onto your computer.
+2. Goto http://ai2.appinventor.mit.edu/
+3. Login using your credentials.
+4. Click on My Projects > Import Project (.aia) from my computer...
+5. Browse and open the downloaded BreathingCompanion.aia file.
   
 # How to use?
 * Open the app.
